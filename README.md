@@ -8,12 +8,12 @@
 ####  !pip install tika
 
 
-## Call main function from summarization_keywords
+## Call main function from summarization_keywords.py
 
 ####  summarization_keywords.main(text=text, max_len=200, top_n=5, stop_words='english')
 
 
-## Parameters :
+## Parameters needed:
 ####  text = string data
 ####  max_len = length of summary needed
 ####  top_n = number of keywords needed
