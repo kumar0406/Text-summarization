@@ -8,7 +8,7 @@
 ####  !pip install tika
 
 
-## Call main function from summarize
+## Call main function from summarization_keywords
 
 ####  summarization_keywords.main(text=text, max_len=200, top_n=5, stop_words='english')
 
