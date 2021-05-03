@@ -65,3 +65,62 @@ def main(text, max_len, top_n, stop_words, path_output_file):
 
 #if __name__ == main:
 #  main()
+
+text = '''
+You’ve no doubt heard of food for thought, food for love, food for strength,
+health food, healing food, soul food, brain food, and the like. For as long as
+people have inhabited this planet, edibles have been imbued with all sorts
+of attributes beyond satisfying hunger and sustaining life. And in many
+cases, popular notions about the powers of various foods and beverages
+
+have been documented by modern scientific investigations that have dem-
+onstrated, for example, the soothing qualities of chicken soup for sufferers
+
+of the common cold, and the antibiotic properties of garlic.
+Then there are the newer discoveries not rooted in folklore, among
+them the protection against cancer afforded by vegetables and fruits rich in
+the carotenoid pigments and the cancer-blockers found in members of the
+cabbage family; the cholesterol-lowering ability of apples, barley, beans,
+garlic, and oats; the heart-saving qualities of fish and alcohol (in moderate
+amounts), and the antidiabetic properties of foods rich in dietary fiber.
+But while thinking of food as preventive or cure, it is important not
+
+to lose sight of its basic values: to provide needed nutrients and a pleasur-
+able eating experience while satisfying hunger and thirst.
+
+In The New Complete Book of Food Carol Ann Rinzler has put it all
+together, providing a handy, illuminating guide for all who shop, cook, and
+eat. It is a “must have” for all those who want to get the very most out of
+the foods they eat, as well as avoid some inevitable dietary and culinary
+pitfalls. Ms. Rinzler tells you how to derive the maximum nutritive value
+from the foods you buy and ingest, with handy tips on how to select,
+store, prepare, and in some cases serve foods to preserve their inherent
+worth and avoid their risks. For example, in preparing bean sprouts, you’ll
+be cautioned to eat them within a few days of purchase and to cook them
+minimally to get the most food value from this vitamin C-rich food. You’ll
+appreciate the importance of variety and moderation in your diet when
+
+you discover that broccoli, which possesses two cancer-preventing proper-
+ties, also can inhibit thyroid hormone if consumed in excess.
+
+You will also recognize that not all wholesome foods are good for
+all folks. Sometimes a health condition will render a food unsuitable for
+you. For example, beans might be restricted for those with gout and certain
+greens may be limited for those who must stick to a low-sodium diet. Then
+too, there are possible interactions—both adverse and advantageous—
+between certain foods and nutrients or medications. For example, citrus
+fruits are recommended accompaniments for iron-rich vegetables and meats
+
+The New Complete Book of Food
+since the vitamin C in the fruits enhances the absorption of iron. Those taking anticoagulant
+medication are advised to avoid excessive amounts of green leafy vegetables since the vitamin
+K in these foods may reduce the effectiveness of the drug.
+You’ll learn what happens to foods when they are cooked at home or processed in
+factories. Want to avoid olive-drab green vegetables? Steam them quickly or, better yet, cook
+them in the microwave with a tiny bit of water to bypass the discoloring action of acids
+on the green pigment chlorophyll. You’ll also get the full story on methods of preserving
+milk—from freezing and drying to evaporating and ultrapasteurizing—that should relieve
+any anxieties you may have about the safety and healthfulness of processed milk.
+In short, this is a book no self-respecting eater should be without. It can serve as a
+lifetime reference for all interested in a safe and wholesome diet.
+'''
