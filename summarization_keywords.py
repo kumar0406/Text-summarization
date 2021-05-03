@@ -54,11 +54,11 @@ def keywords(text, top_n, stop_words):
 
   return listToStr
 
-def main(text, max_len, top_n, stop_words):
+def main(text, max_len, top_n, stop_words, path_output_file):
   summarize_1 = summarize(text,max_len)
   keywords_1 = keywords(text, top_n, stop_words)
-  f = open("/content/drive/MyDrive/Kochar/output.txt", "x")
-  f = open("/content/drive/MyDrive/Kochar/output.txt", "a")
+  f = open(path_output_file, "x")
+  f = open(path_output_file, "a")
   f.write("The summary of the file is : " +summarize_1)
   f.write("\n\n\n These are the keywords which describes the file :"+keywords_1)
   f.close()
