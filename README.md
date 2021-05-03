@@ -9,7 +9,8 @@
 
 
 ## Call main function from summarize
-####  summarize.main(text=text, max_len=200, top_n=5, stop_words='english')
+
+####  summarization_keywords.main(text=text, max_len=200, top_n=5, stop_words='english')
 
 
 ## Parameters :
