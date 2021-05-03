@@ -66,8 +66,7 @@ def main(text, max_len, top_n, stop_words, path_output_file):
 #if __name__ == main:
 #  main()
 
-text = '''
-You’ve no doubt heard of food for thought, food for love, food for strength,
+text = '''You’ve no doubt heard of food for thought, food for love, food for strength,
 health food, healing food, soul food, brain food, and the like. For as long as
 people have inhabited this planet, edibles have been imbued with all sorts
 of attributes beyond satisfying hunger and sustaining life. And in many
